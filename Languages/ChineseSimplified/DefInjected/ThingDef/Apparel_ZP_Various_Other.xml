@@ -22,7 +22,7 @@
   <!-- 陣笠 Base ヘルメット -->
 
   <ZP_JingasaHelmet.label>阵笠</ZP_JingasaHelmet.label>
-  <ZP_JingasaHelmet.description>一种斗笠状的护盔，通过竹木及金属搭配制成，很有特色的日本装备。\n说到阵笠，很容易就能让人联想到战国时代的足轻啦，头戴阵笠、赤足持枪乃是足轻的经典造型。有传言说这种护盔还可以用来接水和煮食...不知道是不是真的呢。</ZP_JingasaHelmet.description>
+  <ZP_JingasaHelmet.description>一种斗笠状的护盔，通过竹木及金属搭配制成，很有特色的日本装备。\n说到阵笠，很容易就能让人联想到战国时代的足轻，头戴阵笠、赤足持枪乃是足轻的经典造型。有传言说这种护盔还可以用来接水和煮食...不知道是不是真的呢。</ZP_JingasaHelmet.description>
 
 
   <!-- 将軍兜 Base パワーアーマヘルメット -->
@@ -42,7 +42,7 @@
   <ZP_IronClogs.label>铁屐</ZP_IronClogs.label>
   <ZP_IronClogs.description>从古时候传下来、以锻炼腰腿力量为目的用铁制成的木屐。虽然因为穿着它行动不太方便，但由于毅力和锻炼的结果，能得到更多的经验。</ZP_IronClogs.description>
 
-  <ZP_TravelBag.label>行囊</ZP_TravelBag.label>
+  <ZP_TravelBag.label>行李分拣袋</ZP_TravelBag.label>
   <ZP_TravelBag.description>一种日本传统的旅行用携行包。因为它可以收纳很多行李，所以对运输工作来说也很方便。</ZP_TravelBag.description>
 
   <ZP_Tekko.label>手甲</ZP_Tekko.label>
